@@ -21,6 +21,7 @@
 | ⌘ + m | Minimize the window |
 | ⌘ + h | Hide Google Chrome |
 | ⌘ + q | Quit Google Chrome |
+| command + `| alter between chrom tabs| 
 
 ## Google Chrome feature shortcuts
 
